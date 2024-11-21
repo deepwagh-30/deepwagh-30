@@ -1,0 +1,8 @@
+# Prerequisites
+
+Before running this project, ensure the following are in place:
+
+- **Python**: Install Python 3.12 or higher. Download it from [python.org](https://www.python.org/).
+- **Libraries**: Install the required Python libraries listed in `requirements.txt`. Use the command:
+  ```bash
+  pip install -r requirements.txt
